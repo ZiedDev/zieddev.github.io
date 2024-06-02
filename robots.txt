@@ -4,3 +4,7 @@ Allow: /mcq-mate/index.html
 Allow: /mcq-mate/pdfs/
 Disallow: /mcq-mate/media/
 Disallow: /mcq-mate/pdf-viewer/
+Allow: /mcq-mate/guides.html
+Disallow: /mcq-mate/manifest.json
+Disallow: /mcq-mate/bundle.js
+Disallow: /mcq-mate/sw.js
